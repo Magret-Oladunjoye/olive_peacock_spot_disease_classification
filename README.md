@@ -1,1 +1,3 @@
 # olive_peacock_spot_disease_classification
+
+This repository presents a machine learning model designed to detect and classify olive peacock spot disease, a significant threat to olive crops. The project involves data preprocessing, model training, and evaluation using deep learning techniques. The model was successfully converted to TensorFlow Lite (TFLite), making it lightweight and optimized for mobile and edge-device deployment—perfect for real-world applications in precision agriculture. Whether you're an AI researcher, a developer working on agricultural solutions, or an olive grower looking for disease detection tools, this project provides a practical, scalable foundation.
